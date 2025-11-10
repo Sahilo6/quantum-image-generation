@@ -1,7 +1,7 @@
 # Quantum-Enhanced Image Generation
 
 **Team:** Qubit Syndicate  
-**Members:** Sahil Sadhwani, Dhyanam Mahajan, Shourya
+**Members:** Sahil Sadhwani, Dhyanam Mahajan, Shourya Thakur
 
 ## 🎯 Project Overview
 
